@@ -16,7 +16,7 @@ Alien9Img = loadImage("TAlien9.png")
 Alien10Img = loadImage("TAlien10.png")
 Alien11Img = loadImage("TAlien11.png")
 */ 
-spaceShipImg = loadImage("spaceShip.png")
+spaceShipImg = loadImage("SpaceShip.png")
 bgImage = loadImage("Space.jpg")
 bulletImg = loadImage("Bullet.png")
 }
